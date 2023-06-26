@@ -9,14 +9,11 @@ Our organization works primarily in the field of visual geometry. Carry out rese
 
 ## 研究方向
 <p align="center">
-  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed" width="300"/><br>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed" width="300"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/2.jpg alt="Fig.2. Convergence speed" width="300"/>
 
-  Fig.1. Test function <br>
-  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/2.jpg alt="Fig.2. Convergence speed" /><br>
-  Fig.2. Convergence speed <br>
-  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/3.jpg alt="Fig.3. Object value" /><br>
-  Fig.3. Object value <br>
-  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/4.jpg alt="Fig.4. Consumed Time" /><br>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/3.jpg alt="Fig.3. Object value" width="400"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/4.jpg alt="Fig.4. Consumed Time" width="300"/><br>
   Fig.4. Consumed Time<br>
 </p>
 
@@ -29,3 +26,5 @@ Our organization works primarily in the field of visual geometry. Carry out rese
 
 ## 视频平台
 [Bilibili](https://space.bilibili.com/108097045?spm_id_from=333.1007.0.0)  
+
+<img src="building_material.jpg" alt="建材科学" style="width:300px; height:200px; object-fit:cover" />
