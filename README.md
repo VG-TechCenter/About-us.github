@@ -8,7 +8,17 @@ Our organization works primarily in the field of visual geometry. Carry out rese
 虽然Github有name和username，但是还缺少像微信那样的备注名功能。此功能的缺失，对于现在二次元化的g友间的沟通和交往十分不利，因此本扩展应运而生～
 
 ## 研究方向
-[chrome商店](https://chrome.google.com/webstore/detail/githubremark/mfimgdoejnljagjkeeieiidhejnnoicp)  
+<p align="center">
+  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed"/><br>
+  Fig.1. Test function <br>
+  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/2.jpg alt="Fig.2. Convergence speed" /><br>
+  Fig.2. Convergence speed <br>
+  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/3.jpg alt="Fig.3. Object value" /><br>
+  Fig.3. Object value <br>
+  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/4.jpg alt="Fig.4. Consumed Time" /><br>
+  Fig.4. Consumed Time<br>
+</p>
+
 
 ## 案例
 1.在图标上单击，选择on则开启功能。  
