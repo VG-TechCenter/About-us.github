@@ -1,2 +1,2 @@
 # About-us.github
-Visual Technology Group
+Visual geometry Technology Center
