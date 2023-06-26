@@ -9,7 +9,8 @@ Our organization works primarily in the field of visual geometry. Carry out rese
 
 ## 研究方向
 <p align="center">
-  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed"/><br>
+  <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed" width="300"/><br>
+
   Fig.1. Test function <br>
   <img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/2.jpg alt="Fig.2. Convergence speed" /><br>
   Fig.2. Convergence speed <br>
