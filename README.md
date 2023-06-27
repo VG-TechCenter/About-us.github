@@ -24,6 +24,7 @@ As space technology has been leaping forward, a wide variety of space structures
 Fig.1. Schematic diagram of research direction<br>
 </p>
 
+
 ### 1.High-precision localization and pose estimation:<br>
 Utilizing machine vision techniques for accurate positioning and orientation estimation of objects, robots, or cameras, such as vision-based SLAM (Simultaneous Localization and Mapping), camera calibration, etc.<br>
 ### 2.Optical measurement and scanning: 
@@ -68,6 +69,7 @@ Simultaneous Localization and Mapping by integrating visual perception and motio
 ### 15.Behavior Analysis and Scene Understanding: 
 
 Research on understanding, analyzing, and reasoning about complex scenes, human actions, objects, etc., such as behavior recognition, scene understanding, etc.<br>
+
 
 
 ## Video Platform
