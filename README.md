@@ -12,18 +12,16 @@ As space technology has been leaping forward, a wide variety of space structures
 
 ## Research Direction
 <p align="center">
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/7.jpg alt="Fig.4. Consumed Time"/><br>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/2.jpg alt="Fig.2. Convergence speed" width="500"/>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/3.jpg alt="Fig.3. Object value" width="500"/>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/8.jpg alt="Fig.3. Object value" width="500"/>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/4.jpg alt="Fig.4. Consumed Time" width="500"/><br>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/5.jpg alt="Fig.4. Consumed Time" width="300"/>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed" width="300"/>
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/6.jpg alt="Fig.4. Consumed Time" width="300"/>
 
-
-<br>
-  Fig.1. Schematic diagram of research direction<br>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/2.jpg alt="Fig.2. Convergence speed" width="200"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/3.jpg alt="Fig.3. Object value" width="200"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/8.jpg alt="Fig.3. Object value" width="200"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/4.jpg alt="Fig.4. Consumed Time" width="200"/><br>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/7.jpg alt="Fig.4. Consumed Time" width="200"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/5.jpg alt="Fig.4. Consumed Time" width="200"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/1.jpg alt="Fig.2. Convergence speed" width="200"/>
+<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/6.jpg alt="Fig.4. Consumed Time" width="200"/><br>
+Fig.1. Schematic diagram of research direction<br>
 </p>
 
 ### 1.High-precision localization and pose estimation:<br>
