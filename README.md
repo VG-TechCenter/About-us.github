@@ -1,6 +1,5 @@
 # About-us.github
-<p align="center">
-<img src=https://github.com/VG-TechCenter/About-us.github/blob/main/About_us_IMG/9.jpg alt="Fig.2. Convergence speed" />
+
 
 
 # Visual Geometry Technology Center
