@@ -2,7 +2,10 @@
 
 
 
+
+
 # Visual Geometry Technology Center
+![header_](https://github.com/VG-TechCenter/About-us.github/assets/109327979/ceb4f562-e229-442c-9052-de728b38728a)
 
 Our organization works primarily in the field of visual geometry. Carry out research work on the application of various vision technologies for on-orbit spacecraft.
 
